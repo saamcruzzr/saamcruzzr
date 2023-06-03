@@ -1,5 +1,5 @@
 ## Hola Mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF597B&size=30&lines=Me+llamo+Samantha;Soy+Web+Developer;y+Diseñadora+mexicana)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF597B&size=30&width=800&lines=Me+llamo+Samantha+Cruz;Soy+Web+Developer+y+Diseñadora+mexicana)](https://git.io/typing-svg)
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre mi
 ```javascript
