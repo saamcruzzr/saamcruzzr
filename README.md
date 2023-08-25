@@ -1,5 +1,5 @@
-## Hola Mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF597B&size=30&width=800&lines=Me+llamo+Samantha+Cruz;Soy+Web+Developer+y+Diseñadora+mexicana)](https://git.io/typing-svg)
+## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF597B&size=30&width=800&lines=I+am+Samantha+Cruz;I'm+a+Web+Developer+and+Graphic+Designer)](https://git.io/typing-svg)
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre mi
 ```javascript
@@ -15,9 +15,9 @@ const Samantha = {
         
         technologies: ["VSCode", "Firebase", "Trello", "Git", "Github", "Github Proyects", "SAP Build"],
         
-        learning: ["AWS", "Java", "Spring", "UX"],
+        learning: ["AWS", "Java", "Spring", "UX by Google", "AI"],
         
-        design: ["Figma", "Adobe Creative Cloud", "Canva", ""],
+        design: ["Figma", "Adobe Creative Cloud", "Canva"],
         
         operatingSystem: ["Windows", "IOS"]
     },
