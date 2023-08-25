@@ -1,7 +1,7 @@
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF597B&size=30&width=800&lines=I+am+Samantha+Cruz;I'm+a+Web+Developer+and+Graphic+Designer)](https://git.io/typing-svg)
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre mi
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me
 ```javascript
 const Samantha = {
 
@@ -29,7 +29,7 @@ const Samantha = {
   
   <td>
     <div align="center">
-      <h2><b>Contáctame</b></h2>
+      <h2><b>Contact me</b></h2>
       <a href="mailto:contacto.samcruz@gmail.com"><img src="https://img.icons8.com/?id=110231&format=png&size=80" alt="Samantha Cruz | Gmail" /></a>
       <a href="https://www.linkedin.com/in/samantha-cruz-rios"><img src="https://img.icons8.com/?id=108812&format=png&size=80" alt="Samantha Cruz | LinkedIn" /></a>
       <a href="https://github.com/saamcruzzr"><img src="https://img.icons8.com/?id=118553&format=png&size=80" alt="GitHub"/></a>
